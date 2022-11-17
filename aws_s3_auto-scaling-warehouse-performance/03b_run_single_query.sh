@@ -1,0 +1,1 @@
+snowsql -a psbXXXXX.us-east-1 -u dbmsuser -w AS_WH -d TEST_SCALE_OUT -s PUBLIC -f 03a_complex_query.sql
